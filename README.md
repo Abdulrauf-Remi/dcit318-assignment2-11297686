@@ -54,21 +54,21 @@ The application will display demonstrations of all three OOP concepts with clear
 
 ```
 dcit318-assignment2-11297686/
-├── Program.cs                              # Main application entry point
+├── Program.cs                             
 ├── InheritanceandOverriding/
-│   └── InheritanceExample.cs              # Inheritance and method overriding demo
+│   └── InheritanceExample.cs             
 ├── AbstractClassesandMethods/
-│   └── AbstractExample.cs                 # Abstract classes and methods demo
+│   └── AbstractExample.cs                
 ├── Interface/
-│   └── InterfaceExample.cs                # Interface implementation demo
-├── OOPDemo.csproj                         # Project file
-├── .gitignore                             # Git ignore file
-└── README.md                              # This documentation
+│   └── InterfaceExample.cs               
+├── OOPDemo.csproj                        
+├── .gitignore                            
+└── README.md                             
 ```
 
 ## Learning Objectives
 
-This assignment helps students understand:
+This assignment helps me understand:
 - How inheritance works in C#
 - Method overriding and virtual methods
 - Abstract classes and methods
