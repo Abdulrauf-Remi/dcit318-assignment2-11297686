@@ -54,9 +54,15 @@ The application will display demonstrations of all three OOP concepts with clear
 
 ```
 OOPDemo/
-├── Program.cs          # Main application with all OOP demonstrations
-├── OOPDemo.csproj      # Project file
-└── README.md           # This documentation
+├── Program.cs                              # Main application entry point
+├── InheritanceandOverriding/
+│   └── InheritanceExample.cs              # Inheritance and method overriding demo
+├── AbstractClassesandMethods/
+│   └── AbstractExample.cs                 # Abstract classes and methods demo
+├── Interface/
+│   └── InterfaceExample.cs                # Interface implementation demo
+├── OOPDemo.csproj                         # Project file
+└── README.md                              # This documentation
 ```
 
 ## Learning Objectives
