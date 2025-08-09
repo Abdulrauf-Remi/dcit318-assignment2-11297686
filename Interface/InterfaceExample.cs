@@ -1,6 +1,6 @@
 using System;
 
-namespace OOPDemo.Interface
+namespace Interface
 {
     // INTERFACES
     // Interface IMovable

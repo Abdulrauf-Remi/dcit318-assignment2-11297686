@@ -1,9 +1,9 @@
 ﻿using System;
-using OOPDemo.InheritanceandOverriding;
-using OOPDemo.AbstractClassesandMethods;
-using OOPDemo.Interface;
+using InheritanceandOverriding;
+using AbstractClassesandMethods;
+using Interface;
 
-namespace OOPDemo
+namespace DCIT318Assignment2
 {
     class Program
     {

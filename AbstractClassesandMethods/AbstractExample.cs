@@ -1,6 +1,6 @@
 using System;
 
-namespace OOPDemo.AbstractClassesandMethods
+namespace AbstractClassesandMethods
 {
     // ABSTRACT CLASSES AND METHODS
     // Abstract base class Shape

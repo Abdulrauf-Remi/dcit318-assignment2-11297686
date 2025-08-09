@@ -53,7 +53,7 @@ The application will display demonstrations of all three OOP concepts with clear
 ## Project Structure
 
 ```
-OOPDemo/
+dcit318-assignment2-11297686/
 ├── Program.cs                              # Main application entry point
 ├── InheritanceandOverriding/
 │   └── InheritanceExample.cs              # Inheritance and method overriding demo
@@ -62,6 +62,7 @@ OOPDemo/
 ├── Interface/
 │   └── InterfaceExample.cs                # Interface implementation demo
 ├── OOPDemo.csproj                         # Project file
+├── .gitignore                             # Git ignore file
 └── README.md                              # This documentation
 ```
 

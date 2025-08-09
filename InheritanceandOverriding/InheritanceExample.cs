@@ -1,6 +1,6 @@
 using System;
 
-namespace OOPDemo.InheritanceandOverriding
+namespace InheritanceandOverriding
 {
     // INHERITANCE AND METHOD OVERRIDING
     // Base class Animal
